@@ -47,8 +47,8 @@ Trail Assist is a cross-platform mobile application built for trekkers and adven
 ### Mobile ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d46dab87-289b-40ea-944b-478414111909" width="220" 
-    <img width="220" alt="photo_2026-07-23_16-14-04" src="https://github.com/user-attachments/assets/af83fa44-5c5b-4c22-a620-8ed13a885692" />
+  <img src="https://github.com/user-attachments/assets/d46dab87-289b-40ea-944b-478414111909" width="220" />
+  <img width="220" alt="photo_2026-07-23_16-14-04" src="https://github.com/user-attachments/assets/af83fa44-5c5b-4c22-a620-8ed13a885692" />
   <img width="220" src="https://github.com/user-attachments/assets/04f39805-a268-4ff7-9ed3-b31fbf2b8e8e" />
 
 </p>
